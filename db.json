@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "type": "User",
+      "name": "Amar",
+      "email": "amar@gmail.com",
+      "password": "123123",
+      "id": 1
+    },
+    {
+      "type": "Instructor",
+      "name": "Astro",
+      "email": "astro@gmail.com",
+      "password": "123123",
+      "id": 2
+    },
+    {
+      "type": "User",
+      "name": "Wiz",
+      "email": "wiz@gmail.com",
+      "password": "123123",
+      "id": 3
+    }
+  ],
+  "tasks": [],
+  "edited": []
+}
